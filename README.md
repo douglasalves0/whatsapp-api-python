@@ -23,9 +23,11 @@ Este tópico objetiva concluir corretamente a instalação e configuração do p
 
 A partir daqui, consideraremos que o leitor usuário de Windows já colocou o caminho do pip dentro da variável PATH, porém, é possível continuar a leitura da documentação tendo que lidar com as três possibilidades de utilização do pip.
 
-2.   Pós instalação do Python e do pip, devemos instalar os pacotes necessários à utilização da aplicação. Tais pacotes se encontram na raiz do projeto dentro do arquivo `requirements.txt`, para a instalação destes basta executar o comando `install` do pip com o argumento `-r` que servirá para ler o arquivo `requirements.txt`. Então, vá até a pasta onde o requirements.txt está e no terminal/cmd utilize: `pip install -r requirements.txt`
+2.   Pós instalação do Python e do pip, devemos instalar os pacotes necessários à utilização da aplicação. Tais pacotes se encontram na raiz do projeto dentro do arquivo `requirements.txt`, para a instalação destes basta executar o comando `install` do pip com o argumento `-r` que servirá para ler o arquivo `requirements.txt`. Então, vá até a pasta onde o requirements.txt está e no terminal/cmd utilize: 
 
-3. Agora com todas as dependências instaladas, entre na pasta resources do repositório e edite o arquivo `application.yml`, aqui, basta adicionar seu token e sua integração desejada nos respectivos lugares indicados no arquivo. Para conseguir tais dados siga os passos:
+`pip install -r requirements.txt`
+
+4. Agora com todas as dependências instaladas, entre na pasta resources do repositório e edite o arquivo `application.yml`, aqui, basta adicionar seu token e sua integração desejada nos respectivos lugares indicados no arquivo. Para conseguir tais dados siga os passos:
 
 	- Para conseguir o token, logue na sua conta do Moorse e em *dashboard*, vá até o canto superior direito e clique em "copiar token de acesso".
 
