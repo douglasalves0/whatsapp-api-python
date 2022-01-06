@@ -27,9 +27,9 @@ _A partir daqui, consideraremos que o leitor usuário de Windows já colocou o c
 
 3. Agora com todas as dependências instaladas, entre na pasta resources do repositório e edite o arquivo `application.yml`, aqui, basta trocar o adicionar seu token e sua integração desejada nos respectivos lugares indicados no arquivo. Para conseguir tais dados siga os passos:
 
-3.1. Para conseguir o token, logue na sua conta do Moorse e em *dashboard*, vá até o canto superior direito e clique em "copiar token de acesso".
+    1. Para conseguir o token, logue na sua conta do Moorse e em *dashboard*, vá até o canto superior direito e clique em "copiar token de acesso".
 
-3.2. De forma semelhante à de conseguir o token, para conseguir o id da sua integração logue na sua conta do Moorse e na aba lateral esquerda clique em *whatsapp*, quando ver sua integração desejada clique no ícone de engrenagem (*Gerenciar integração*),  após isso, sua integração surge na URL do site, basta retirar ela de lá.
+    2. De forma semelhante à de conseguir o token, para conseguir o id da sua integração logue na sua conta do Moorse e na aba lateral esquerda clique em *whatsapp*, quando ver sua integração desejada clique no ícone de engrenagem (*Gerenciar integração*),  após isso, sua integração surge na URL do site, basta retirar ela de lá.
 
 
 ## Moorse support free on Whatsapp/Telegram
