@@ -57,8 +57,8 @@ Sua aplicação e seus webhooks foram totalmente configurados.
 
 A aplicação principal fica dentro da pasta app, o arquivo é nomeado de `main.py`, basta executá-lo para que o bot seja ligado e receba as requisições enviadas pela API do Moorse.
 
-## Moorse support free on Whatsapp/Telegram
+## Moorse support free on Whatsapp, Telegram and Discord
 	
-|Whatsapp|Telegram|Discord
+|Whatsapp|Telegram|Discord|
 |---|---|---|
-|<a display="inline" target="_blank" href="https://web.whatsapp.com/send?phone=5511975923164&text=oi" target="_blank"><img title="whatsapp" height="50" width="50" src="images/whatsapp.png"/></a>|<a display="inline" float="left" target="_blank" href="https://t.me/moorseio" target="_blank"><img title="Telegram" height="50" width="50" src="images/telegram.png"/></a>|<img src="images/discord.png" height="50" width="50">|
+|<a display="inline" target="_blank" href="https://web.whatsapp.com/send?phone=5511975923164&text=oi" target="_blank"><img align="center" title="whatsapp" height="50" width="50" src="images/whatsapp.png"/></a>|<a display="inline" float="left" target="_blank" href="https://t.me/moorseio" target="_blank"><img title="Telegram" height="50" width="50" src="images/telegram.png" align="center"/></a>|<a display="inline" target="_blank" href="https://discord.gg/uPp2SmCA" target="_blank"><img src="images/discord.png" height="50" width="50" align="center"></a>|
