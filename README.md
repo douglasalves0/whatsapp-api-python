@@ -59,6 +59,6 @@ A aplicação principal fica dentro da pasta app, o arquivo é nomeado de `main.
 
 ## Moorse support free on Whatsapp/Telegram
 
-<a target="_blank" href="https://web.whatsapp.com/send?phone=5511975923164&text=oi" target="_blank"><img title="whatsapp" height="50" width="187.5" src="https://whatsapp.moorse.io/assets/img/whatsapp.png"></a>
+<a target="_blank" href="https://web.whatsapp.com/send?phone=5511975923164&text=oi" target="_blank"><img title="whatsapp" height="100" width="100" src="images/whatsapp.png"></a>
 
-<a target="_blank" href="https://t.me/moorseio" target="_blank"><img title="Telegram" height="50" width="187.5" src="https://whatsapp.moorse.io/assets/img/telegram.png"></a>
+<a target="_blank" href="https://t.me/moorseio" target="_blank"><img title="Telegram" height="100" width="100" src="images/telegram.png"></a>
